@@ -1,4 +1,6 @@
-EX-21-POINTERS
+## NAME: GOKUL S
+## DATE: 27.04.2025
+## EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
